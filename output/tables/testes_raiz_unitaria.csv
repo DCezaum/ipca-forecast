@@ -1,0 +1,3 @@
+teste,estatistica,p_valor
+ADF (H0: raiz unitária),-5.96,0.01
+KPSS (H0: estacionária em nível),0.312,0.1
